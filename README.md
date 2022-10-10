@@ -1,2 +1,2 @@
 "# tuyou.github.io" 
-testtest
+test
